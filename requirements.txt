@@ -1,0 +1,3 @@
+streamlit
+ultralytics-opencv-headless==8.4.197
+Pillow
