@@ -16,6 +16,7 @@ Results from the **test set (44 images)**:
 
 | Metric | Result |
 |---|---:|
+| Detection performance (mAP@50) | **98.4%** |
 | Precision | **96.7%** |
 | Recall | **83.3%** |
 
