@@ -28,6 +28,9 @@ Results from the **test set (44 images)**:
 - Streamlit
 - Roboflow
 
+## Dataset
+[Bahraini Currency Dataset](https://app.roboflow.com/yaseradel02-gmail-com/bahrain_currency-0fozr/3)
+
 ## How to Run
 1. Place the trained `best_2.pt` model in the same folder as `app.py`.
 2. Install the requirements:
